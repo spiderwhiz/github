@@ -2,3 +2,5 @@
 import antigravity
 # Another strange module
 import tkinter
+# Funny
+import this
